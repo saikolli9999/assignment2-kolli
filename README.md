@@ -23,3 +23,17 @@ Nearest Airport is **New York Skyports Seaplane Base (NYS)**.
 
 **[My info](AboutMe.md)**
 
+*********************************
+
+### Info about Cities that should be visited and explored.
+
+This table gives the information about the places that should be visited in the corresponding city and how much time we can spend there to enjoy.
+
+| City Name | Important Location | Time to Spend |
+|-----------|--------------------|---------------|
+| Atlanta   | Centennial Olympic Park | 5 hrs    |
+| Boston    | Museum of Fine Arts | 3 hrs        |
+| San Francisco| Alcatraz Island |  1 day        |
+| Seattle   | Space Needle | 7 hrs               |
+
+
