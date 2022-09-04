@@ -40,5 +40,5 @@ This table gives the information about the places that should be visited in the 
 
 ### Quotes I Like
 
-> Don’t let yesterday take up too much of today. — *Will Rogers* 
-> A man who has committed a mistake and doesn’t correct it is committing another mistake. – *Confucius Kongzi* 
+> Don’t let yesterday take up too much of today. — *Will Rogers* <br>
+> A man who has committed a mistake and doesn’t correct it is committing another mistake. – *Confucius Kongzi*
