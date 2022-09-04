@@ -5,7 +5,7 @@
 
 --------------------------
 
-## Steps to Reach Museum from Nearest Airport
+### Steps to Reach Museum from Nearest Airport
 
 Nearest Airport is **New York Skyports Seaplane Base (NYS)**.
 
@@ -14,4 +14,11 @@ Nearest Airport is **New York Skyports Seaplane Base (NYS)**.
 3. Stand and wait near the Shuttle stop with your belongings.
 4. Once shuttle vehicle arrived board into it.
 5. Scan your ticket with the driver and reach the destination in 30 to 40 min.
+
+##### Other Places to visit near museum
+
++ Hayden Planetarium
++ New-York Historical Society Museum & Library
++ Rose Center for Earth and Space
+
 
