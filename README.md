@@ -42,3 +42,19 @@ This table gives the information about the places that should be visited in the 
 
 > Don’t let yesterday take up too much of today. — *Will Rogers* <br>
 > A man who has committed a mistake and doesn’t correct it is committing another mistake. – *Confucius Kongzi*
+
+### code snippet 
+
+__________________________________
+
+> Remove element from array, using slice < https://stackoverflow.com/questions/11848534/remove-element-from-array-using-slice >
+
+```javascript
+const arr = ["This", "Little", "Piggy"];
+const first = arr.slice(0, 1);
+const the_rest = arr.slice(1);
+console.log(first); 
+console.log(the_rest);
+```
+< https://css-tricks.com/snippets/javascript/getting-first-and-last-items-in-array-and-splitting-all-the-rest/ >
+
