@@ -47,7 +47,7 @@ This table gives the information about the places that should be visited in the 
 
 __________________________________
 
-> Remove element from array, using slice < https://stackoverflow.com/questions/11848534/remove-element-from-array-using-slice >
+> Remove element from array, using slice <https://stackoverflow.com/questions/11848534/remove-element-from-array-using-slice>
 
 ```javascript
 const arr = ["This", "Little", "Piggy"];
@@ -56,5 +56,5 @@ const the_rest = arr.slice(1);
 console.log(first); 
 console.log(the_rest);
 ```
-< https://css-tricks.com/snippets/javascript/getting-first-and-last-items-in-array-and-splitting-all-the-rest/ >
+<https://css-tricks.com/snippets/javascript/getting-first-and-last-items-in-array-and-splitting-all-the-rest/>
 
